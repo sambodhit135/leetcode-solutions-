@@ -13,25 +13,16 @@ class Solution {
         if(head == null || head.next == null){
             return head;
         }
-        ListNode odd = new ListNode(-1,null);
-        ListNode curr1 = odd;
-        ListNode even = new ListNode(-1,null);
-        ListNode curr2 = even;
-        boolean isodd = true;
-        while(head != null){
-            if(isodd){
-                curr1.next = new ListNode(head.val,null);
-                curr1 = curr1.next;
-                isodd = false;
-            }else{
-                curr2.next = new ListNode(head.val,null);
-                curr2 = curr2.next;
-                isodd = true;
-            }
-            head = head.next;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenhead = even;
+        while(even != null && even.next != null){
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
         }
-        head = odd.next;
-        curr1.next = even.next;
+        odd.next = evenhead;
         return head;
     }
 }

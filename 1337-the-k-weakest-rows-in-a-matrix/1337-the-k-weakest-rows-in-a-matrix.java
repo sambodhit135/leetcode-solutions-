@@ -4,21 +4,18 @@ class Solution {
         for(int i=0;i<mat.length;i++)
         {
             int count=0;
-            int low=0;
-            int high=mat[0].length-1;
-            while(low<=high)
+            for(int j=0;j<mat[0].length;j++)
             {
-                int mid=low+(high-low)/2;
-                if(mat[i][mid]==1)
+                if(mat[i][j]==1)
                 {
-                    low=mid+1;
+                    count++;
                 }
                 else
                 {
-                    high=mid-1;
+                    break;
                 }
             }
-            map.put(i,high);
+            map.put(i,count);
         }
         boolean arr[]=new boolean[mat.length];
         int ans[]=new int[k];

@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

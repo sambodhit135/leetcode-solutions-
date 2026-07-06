@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0707-design-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0707-design-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0707-design-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

@@ -3,29 +3,24 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        HashMap<Character, Character> mapST = new HashMap<>();
-        HashMap<Character, Character> mapTS = new HashMap<>();
+          int ST[]=new int[256];
+          int TS[]=new int[256];
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch1 = s.charAt(i);
-            char ch2 = t.charAt(i);
+          for(int i=0;i<s.length();i++)
+          {
+            char ch1=s.charAt(i);
+            char ch2=t.charAt(i);
 
-            if (mapST.containsKey(ch1)) {
-                if (mapST.get(ch1) != ch2) {
-                    return false;
-                }
-            } else {
-                mapST.put(ch1, ch2);
+            if(ST[ch1]==0 && TS[ch2]==0)
+            {
+                ST[ch1]=ch2;
+                TS[ch2]=ch1;
             }
-
-            if (mapTS.containsKey(ch2)) {
-                if (mapTS.get(ch2) != ch1) {
-                    return false;
-                }
-            } else {
-                mapTS.put(ch2, ch1);
+            else if(ST[ch1]!=ch2 || TS[ch2]!=ch1)
+            {
+                return false;
             }
-        }
-        return true;
+          }
+          return true;
     }
 }

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0707-design-linked-list) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

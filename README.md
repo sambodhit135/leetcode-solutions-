@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2643-row-with-maximum-ones) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |

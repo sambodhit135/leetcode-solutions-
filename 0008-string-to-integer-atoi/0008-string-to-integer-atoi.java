@@ -1,36 +1,41 @@
 class Solution {
     public int myAtoi(String s) {
-        int i = 0, n = s.length();
-        long ans = 0;
+        s = s.trim();
+
         int sign = 1;
-
-        // 1. Skip leading whitespaces
-        while (i < n && s.charAt(i) == ' ') {
+        int i = 0;
+        if (s.length() == 0) {
+            return 0;
+        }
+        if (s.charAt(0) == '-') {
+            sign = -1;
+            i++;
+        } else if (s.charAt(i) == '+') {
             i++;
         }
+        long ans = sign * IntegertoString(i, 0, s);
+        if (ans > Integer.MAX_VALUE) {
+            return Integer.MAX_VALUE;
+        } else if (ans < Integer.MIN_VALUE) {
+            return Integer.MIN_VALUE;
+        }
+        return (int) ans;
+    }
 
-        // 2. If string is empty after trimming spaces
-        if (i == n) return 0;
-
-        // 3. Handle '+' or '-'
-        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-            sign = s.charAt(i) == '-' ? -1 : 1;
-            i++;
+    private long IntegertoString(int i, long num, String s) {
+        if (i >= s.length() || s.charAt(i) < '0' || s.charAt(i) > '9') {
+            return num;
         }
 
-        // 4. Parse digits and check for overflow
-        while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
-            ans = ans * 10 + (s.charAt(i) - '0');
+        
+        int digit = s.charAt(i) - '0';
 
-            if (sign == 1 && ans > Integer.MAX_VALUE) {
-                return Integer.MAX_VALUE;
-            } else if (sign == -1 && -ans < Integer.MIN_VALUE) {
-                return Integer.MIN_VALUE;
-            }
-
-            i++;
+        if (num > Long.MAX_VALUE / 10 ||
+                (num == Long.MAX_VALUE / 10 && digit > Long.MAX_VALUE % 10)) {
+            return Long.MAX_VALUE;
         }
 
-        return (int) (sign * ans);
+        num = num * 10 + digit;
+        return IntegertoString(i + 1, num, s);
     }
 }

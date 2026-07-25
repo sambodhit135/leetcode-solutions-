@@ -1,21 +1,21 @@
 class Solution {
     public int maxProduct(int n) {
         int max = 0;
-        while (n != 0) {
-
-            int sample = n / 10;
-            while (sample != 0)
+        int max1=Integer.MIN_VALUE;
+        int max2=Integer.MIN_VALUE;
+        while (n != 0){
+            int digit=n%10;
+            if(digit>max1)
             {
-            int ans = n % 10;
-            ans = ans * (sample % 10);
-            
-            if (ans > max) {
-                max = ans;
+                max2 = max1;
+                max1 = digit;
             }
-            sample /= 10;
+            else if(digit>max2)
+            {
+                max2=digit;
             }
-             n /= 10;
+            n/=10;
         }
-        return max;
+        return max1*max2;
     }
 }

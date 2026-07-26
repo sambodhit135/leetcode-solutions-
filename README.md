@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3536-maximum-product-of-two-digits) |

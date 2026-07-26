@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 ## Enumeration
 |  |
 | ------- |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

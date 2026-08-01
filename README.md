@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -187,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->

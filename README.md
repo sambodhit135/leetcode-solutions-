@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1288-remove-covered-intervals) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1331-rank-transform-of-an-array) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0090-subsets-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0387-first-unique-character-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

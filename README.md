@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0046-permutations) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1260-shift-2d-grid) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0047-permutations-ii) |
@@ -252,5 +256,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

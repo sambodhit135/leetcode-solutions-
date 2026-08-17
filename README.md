@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0231-power-of-two) |
 ## Merge Sort
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
 |  |

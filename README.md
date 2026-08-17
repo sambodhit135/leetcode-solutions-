@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1903-largest-odd-number-in-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sambodhit135/leetcode-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0037-sudoku-solver) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

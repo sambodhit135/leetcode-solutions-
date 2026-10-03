@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0242-valid-anagram) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0877-stone-game) |
 ## Enumeration
@@ -303,5 +306,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sambodhit135/leetcode-solutions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

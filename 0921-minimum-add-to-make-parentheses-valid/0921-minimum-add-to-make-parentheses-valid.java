@@ -1,26 +1,19 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int count =0;
-        int required=0;
-        for(int i=0;i<s.length();i++)
-        {
-            if(s.charAt(i)=='(')
-            {
+        int count = 0;
+        int required = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
                 count++;
-            }
-            else
-            {
-                
-                 if(count==0)
-                 {
+            } else {
+
+                if (count == 0) {
                     required++;
-                 }
-                else
-                {
+                } else {
                     count--;
                 }
             }
         }
-        return count>0 ? required+count : required;
+        return required + count;
     }
 }

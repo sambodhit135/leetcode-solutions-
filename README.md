@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sambodhit135/leetcode-solutions-/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sambodhit135/leetcode-solutions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
